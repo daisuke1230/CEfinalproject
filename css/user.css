@@ -8,12 +8,15 @@ p {
   font-size:"15px";
 }
 #photo-carousel-inner{
-	height:400px;
+	height:430px;
 }
 #myCarousel{
-	height:400px;
+	height:430px;
 }
 .carousel-caption{
-	top: 30px;
+	top:50px;
 }
 
+.carousel .item {
+	height:430px;
+}
